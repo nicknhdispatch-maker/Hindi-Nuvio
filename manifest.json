@@ -1,7 +1,7 @@
 {
+  "id": "hindi-nuvio",
   "name": "Hindi-Nuvio",
   "version": "1.0.0",
-  "scrapers": [
     {
       "id": "4khdhub",
       "name": "4khdhub",
